@@ -1,0 +1,4 @@
+1. No result display while List subscribers after List Entry               FIXED
+2. the first time click "edit" the entry from the entry list, the data will not load, because the Editor has not initialized, but click  "edit"
+   again the editor works fine.  TODO: need find a way to fix it. 
+    
